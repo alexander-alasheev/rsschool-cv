@@ -29,4 +29,4 @@ describe("Multiply", () => {
 ```
 *****************
 ### My projects
-[Github](адрес "https://github.com/alexander-alasheev/rsschool-cv/edit/gh-pages/cv")
+[Github](адрес "https://github.com/alexander-alasheev/rsschool-cv/")
