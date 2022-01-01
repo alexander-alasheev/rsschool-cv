@@ -1,5 +1,1 @@
-# rsschool-cv
-# first commit
-# second commit
-# third commit
-# fourth commit
+https://alexander-alasheev.github.io/rsschool-cv/
